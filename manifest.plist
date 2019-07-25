@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.12.24.98/app/tbmoba.ipa</string>
+					<string>http://10.12.24.98/app/ProjectQ.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.12.24.98/app/tbmoba.png</string>
+					<string>http://10.12.24.98/app/ProjectQ.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.12.24.98/app/tbmoba512.png</string>
+					<string>http://10.12.24.98/app/ProjectQ.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>tbmoba</string>
+				<string>ProjectQ</string>
 			</dict>
 		</dict>
 	</array>
